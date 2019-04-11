@@ -9,7 +9,7 @@ export const styles = (theme: Theme) =>
       justifyContent: 'center',
     },
     paper: {
-      width: 800,
+      width: 400,
       padding: 40,
     },
   });
